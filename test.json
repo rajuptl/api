@@ -1,37 +1,12 @@
-[
-    {
-        "id": 1,
-        "tab_name": "birthdays",
-        "imageurls": [
-            "https://i.postimg.cc/7YFPbB34/111.jpg"
-        ]
-    },
-    {
-        "id": 2,
-        "tab_name": "love",
-        "imageurls": [
-            "https://i.postimg.cc/X7C4MwTz/p26.jpg",
-            "http://srsolutions.online/allinoneframesjkt/upload/frames/FN5lADb8yPnWRAokvMHVPMagvioKOJ.png"
-        ]
-    },
-    {
-        "id": 3,
-        "tab_name": "car",
-        "imageurls": [
-            "http://srsolutions.online/allinoneframesjkt/upload/frames/dEfFQgWaAdr9BN9flGfUDojHDygk12.jpg",
-            "http://srsolutions.online/allinoneframesjkt/upload/frames/eyPuiqraGiON0VpdFrAclvgPsyBD3w.png"
-        ]
-    },
-    {
-        "id": 4,
-        "tab_name": "nature",
-        "imageurls": [
-            "http://srsolutions.online/allinoneframesjkt/upload/frames/dEfFQgWaAdr9BN9flGfUDojHDygk12.jpg",
-            "https://i.postimg.cc/X7C4MwTz/p26.jpg",
-            "https://i.postimg.cc/9XNQHXzr/94f594b82d14a493b056cdac459f7aa6.jpg",
-            "https://i.postimg.cc/brKPDJ2g/p21.jpg",
-            "https://i.postimg.cc/PJcXWy0m/27fd8d71b5e8e3b9dedfb5b501eb8054.jpg",
-            "https://i.postimg.cc/bv8z9sVF/ea83c3f2c4ec8357d4f69b2dc630c9d2.jpg"
-        ]
-    }
-]
+// 20250213110700
+// https://bitfineness.com/VandeBharat/unicodefont/indiantext.php
+
+{
+  "native": "ca-app-pub-3940256099942544/2247696110",
+  "full": "/21753324030,22894278666/com.dws.unidq_Interstitial",
+  "open": "0",
+  "privacy-policy": "https://sites.google.com/view/unicodemdajja/home",
+  "banner": "/23081990290,22894278666/com.dws.unidq.Banner0.1736156317",
+  "isfull": "1",
+  "counter": "3"
+}
